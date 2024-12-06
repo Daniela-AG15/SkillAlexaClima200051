@@ -57,6 +57,30 @@ Desarrollar una herramienta interactiva que permita a los usuarios consultar el 
 4. Probar y depurar la skill en un dispositivo habilitado con Alexa o en el simulador.
 
 
+<div style="text-align: center;">
+  <img src="![IMG2](https://github.com/user-attachments/assets/8901d2c9-3d10-43e3-810b-2c6e821f071d)" alt="Logotipo" title="Este es un logotipo" width="300">
+</div>
+
+![Img11](https://github.com/user-attachments/assets/cbb260d4-c471-4be5-a9fc-466ea4116afd)
+![Img10](https://github.com/user-attachments/assets/ab6bef1e-ad60-4280-ac80-fdc52a650d3d)
+![Img9](https://github.com/user-attachments/assets/2285500d-e6c4-4105-bc7f-74a5c81f2052)
+![Img8](https://github.com/user-attachments/assets/011f1d00-1e0c-4a2d-90ec-9eaf7fab5715)
+![img7](https://github.com/user-attachments/assets/b7429c92-a144-4fb1-aabd-c95ce769e0a6)
+![img6](https://github.com/user-attachments/assets/f36c4418-d3df-4138-a586-74cd9f56e29d)
+![Img5](https://github.com/user-attachments/assets/881b2cd0-f431-47d4-8d5e-02150336c1bc)
+![img4](https://github.com/user-attachments/assets/5c8434cc-67e4-4110-960c-ad547c182c38)
+![Img3](https://github.com/user-attachments/assets/b8fcaf5d-881b-4042-8bf5-a71dd33e2131)
+
+![Img19](https://github.com/user-attachments/assets/436c478d-95ef-4e12-b87b-f18c3ad338ac)
+![Img18](https://github.com/user-attachments/assets/0342c98b-2159-451a-89c7-9b5e46ddc474)
+![Img17](https://github.com/user-attachments/assets/d979af43-c168-4c78-8c35-b8cb0a690fe0)
+![Img16](https://github.com/user-attachments/assets/c2689c1a-e3a6-4e7e-99ca-fd76021d9453)
+![Img15](https://github.com/user-attachments/assets/85d0991b-bfbe-4f6b-afca-e726b5591747)
+![Img14](https://github.com/user-attachments/assets/4260cea4-d2d2-495e-904f-d6aab7d0150c)
+![Img13](https://github.com/user-attachments/assets/a9c17aad-497d-42d0-970b-372a3a5866ab)
+![Img12](https://github.com/user-attachments/assets/21b74ee4-ece8-49df-b797-5543d09ebc0c)
+
+
 
 ## 📂 Código Fuente
 
