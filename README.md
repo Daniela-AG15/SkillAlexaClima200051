@@ -21,8 +21,8 @@ Este proyecto consiste en el desarrollo de una aplicación en **Flutter** para d
 
 # 🚀 Practica26: Skill Alexa Clima
 
+![images](https://github.com/user-attachments/assets/0be46ab0-5d71-440b-b268-887a77dd7d4a)
 <p align="center">
-  ![images](https://github.com/user-attachments/assets/0be46ab0-5d71-440b-b268-887a77dd7d4a)
   <img src="img/Logo.jpg" alt="Logo del proyecto" width="300"/>
   <img src="img/utxj.jpg" alt="Logo de la institución" width="300"/>
 </p>
