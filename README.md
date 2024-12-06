@@ -85,12 +85,13 @@ Desarrollar una herramienta interactiva que permita a los usuarios consultar el 
   - "¿Qué tiempo hace?"
 - Estas frases ayudarán a Alexa a reconocer cuándo activar esta intención.
 - ![Imagen 12](https://github.com/user-attachments/assets/21b74ee4-ece8-49df-b797-5543d09ebc0c "IMG12")
-- ![Captura de pantalla 2024-12-06 092922](https://github.com/user-attachments/assets/6c87dd7e-e0c0-48e3-9bbc-fae1391b1c45)
+
 - 
 ---
 ## 4. Verificar las Intenciones en el Editor JSON
 - Revisa el archivo JSON en la sección de **Interaction Model**.
 - Asegúrate de que las intenciones creadas estén reflejadas en el modelo.
+- ![Captura de pantalla 2024-12-06 092922](https://github.com/user-attachments/assets/6c87dd7e-e0c0-48e3-9bbc-fae1391b1c45)
 - ![Imagen 14](https://github.com/user-attachments/assets/4260cea4-d2d2-495e-904f-d6aab7d0150c "IMG14")
 - ![Imagen 16](https://github.com/user-attachments/assets/c2689c1a-e3a6-4e7e-99ca-fd76021d9453 "IMG16")
 
@@ -109,6 +110,12 @@ Desarrollar una herramienta interactiva que permita a los usuarios consultar el 
 - Súbelo en los formatos requeridos (tamaño: 108x108 y 512x512 píxeles).
 - 
 ![Imagen 18](https://github.com/user-attachments/assets/0342c98b-2159-451a-89c7-9b5e46ddc474 "IMG18")
+
+---
+
+## 10. Configurar la Privacidad y Publicación
+- Asegúrate de configurar correctamente los permisos y políticas de privacidad.
+- Envia la skill para su validación por parte del equipo de Amazon.
 
 ---
 
