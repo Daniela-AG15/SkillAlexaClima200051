@@ -101,21 +101,22 @@ Desarrollar una herramienta interactiva que permita a los usuarios consultar el 
 - Establece el **nombre de invocación** en la sección de configuración de tu skill (e.g., "Clima Fácil").
 - Este será el nombre que los usuarios dirán para activar la skill (e.g., "Alexa, abre Clima Fácil").
 - ![Imagen 16](https://github.com/user-attachments/assets/c2689c1a-e3a6-4e7e-99ca-fd76021d9453 "IMG16")
-- ![Imagen 17](https://github.com/user-attachments/assets/d979af43-c168-4c78-8c35-b8cb0a690fe0 "IMG17")
+
 
 ---
 
 ## 9. Personalizar el Ícono de la Skill
 - Diseña un ícono representativo para tu skill.
 - Súbelo en los formatos requeridos (tamaño: 108x108 y 512x512 píxeles).
-- 
-![Imagen 18](https://github.com/user-attachments/assets/0342c98b-2159-451a-89c7-9b5e46ddc474 "IMG18")
+- ![Imagen 17](https://github.com/user-attachments/assets/d979af43-c168-4c78-8c35-b8cb0a690fe0 "IMG17")
+
 
 ---
 
 ## 10. Configurar la Privacidad y Publicación
 - Asegúrate de configurar correctamente los permisos y políticas de privacidad.
 - Envia la skill para su validación por parte del equipo de Amazon.
+- ![Imagen 18](https://github.com/user-attachments/assets/0342c98b-2159-451a-89c7-9b5e46ddc474 "IMG18")
 
 ---
 
