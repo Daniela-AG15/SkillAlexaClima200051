@@ -92,8 +92,16 @@ Desarrollar una herramienta interactiva que permita a los usuarios consultar el 
 - Revisa el archivo JSON en la sección de **Interaction Model**.
 - Asegúrate de que las intenciones creadas estén reflejadas en el modelo.
 - ![Captura de pantalla 2024-12-06 092922](https://github.com/user-attachments/assets/6c87dd7e-e0c0-48e3-9bbc-fae1391b1c45)
-- ![Imagen 14](https://github.com/user-attachments/assets/4260cea4-d2d2-495e-904f-d6aab7d0150c "IMG14")
 
+
+
+---
+
+
+## 7. Aplicar las Coordenadas
+- Configura la habilidad para aceptar coordenadas de ubicación como entrada.
+- Si usas OpenWeatherMap, asegúrate de enviar las coordenadas adecuadas para obtener datos precisos.
+- ![Imagen 14](https://github.com/user-attachments/assets/4260cea4-d2d2-495e-904f-d6aab7d0150c "IMG14")
 
 ---
 
