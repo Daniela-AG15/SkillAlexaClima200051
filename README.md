@@ -50,11 +50,18 @@ Desarrollar una herramienta interactiva que permita a los usuarios consultar el 
 - **API**: Acceso a OpenWeatherMap (o similar).
 - **Herramientas**: Amazon Developer Console, Alexa Skills Kit (ASK).
 
-## Pasos para la implementación
+# Pasos para Crear una Alexa Skill
 
-## Imágenes
+## 1. Crear una Cuenta de Desarrollador en Amazon
+- Accede a la [Amazon Developer Console](https://developer.amazon.com/).
+- Regístrate o inicia sesión con tu cuenta de Amazon.
+- Navega a la consola de desarrollador de Alexa.
 
-![Imagen 2](https://github.com/user-attachments/assets/8901d2c9-3d10-43e3-810b-2c6e821f071d "IMG2")
+- ![Imagen 2](https://github.com/user-attachments/assets/8901d2c9-3d10-43e3-810b-2c6e821f071d "IMG2")
+
+---
+
+
 
 ![Imagen 8](https://github.com/user-attachments/assets/011f1d00-1e0c-4a2d-90ec-9eaf7fab5715 "IMG8")
 
