@@ -73,7 +73,7 @@ Desarrollar una herramienta interactiva que permita a los usuarios consultar el 
   - ![Imagen 9](https://github.com/user-attachments/assets/2285500d-e6c4-4105-bc7f-74a5c81f2052 "IMG9")
   - ![Imagen 10](https://github.com/user-attachments/assets/ab6bef1e-ad60-4280-ac80-fdc52a650d3d "IMG10")
   - ![Imagen 11](https://github.com/user-attachments/assets/cbb260d4-c471-4be5-a9fc-466ea4116afd "IMG11")
-  - ![Imagen 12](https://github.com/user-attachments/assets/21b74ee4-ece8-49df-b797-5543d09ebc0c "IMG12")
+
 
 
 ---
@@ -84,21 +84,38 @@ Desarrollar una herramienta interactiva que permita a los usuarios consultar el 
   - "¿Cuál es el clima hoy?"
   - "¿Qué tiempo hace?"
 - Estas frases ayudarán a Alexa a reconocer cuándo activar esta intención.
+- ![Imagen 12](https://github.com/user-attachments/assets/21b74ee4-ece8-49df-b797-5543d09ebc0c "IMG12")
+- ![Captura de pantalla 2024-12-06 092922](https://github.com/user-attachments/assets/6c87dd7e-e0c0-48e3-9bbc-fae1391b1c45)
 - 
+---
+## 4. Verificar las Intenciones en el Editor JSON
+- Revisa el archivo JSON en la sección de **Interaction Model**.
+- Asegúrate de que las intenciones creadas estén reflejadas en el modelo.
+- ![Imagen 14](https://github.com/user-attachments/assets/4260cea4-d2d2-495e-904f-d6aab7d0150c "IMG14")
+- ![Imagen 16](https://github.com/user-attachments/assets/c2689c1a-e3a6-4e7e-99ca-fd76021d9453 "IMG16")
 
 ---
 
-![Imagen 13](https://github.com/user-attachments/assets/a9c17aad-497d-42d0-970b-372a3a5866ab "IMG13")
+## 8. Configurar el Nombre de Invocación
+- Establece el **nombre de invocación** en la sección de configuración de tu skill (e.g., "Clima Fácil").
+- Este será el nombre que los usuarios dirán para activar la skill (e.g., "Alexa, abre Clima Fácil").
 
-![Imagen 14](https://github.com/user-attachments/assets/4260cea4-d2d2-495e-904f-d6aab7d0150c "IMG14")
+- ![Imagen 17](https://github.com/user-attachments/assets/d979af43-c168-4c78-8c35-b8cb0a690fe0 "IMG17")
 
-![Captura de pantalla 2024-12-06 092922](https://github.com/user-attachments/assets/6c87dd7e-e0c0-48e3-9bbc-fae1391b1c45)
+---
 
-![Imagen 16](https://github.com/user-attachments/assets/c2689c1a-e3a6-4e7e-99ca-fd76021d9453 "IMG16")
-
-![Imagen 17](https://github.com/user-attachments/assets/d979af43-c168-4c78-8c35-b8cb0a690fe0 "IMG17")
-
+## 9. Personalizar el Ícono de la Skill
+- Diseña un ícono representativo para tu skill.
+- Súbelo en los formatos requeridos (tamaño: 108x108 y 512x512 píxeles).
+- 
 ![Imagen 18](https://github.com/user-attachments/assets/0342c98b-2159-451a-89c7-9b5e46ddc474 "IMG18")
+
+---
+
+
+
+
+
 
 ![Imagen 19](https://github.com/user-attachments/assets/436c478d-95ef-4e12-b87b-f18c3ad338ac "IMG19")
 
