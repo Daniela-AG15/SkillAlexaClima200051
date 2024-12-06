@@ -89,6 +89,8 @@ Desarrollar una herramienta interactiva que permita a los usuarios consultar el 
 
 
 
+![Resultado](https://github.com/user-attachments/assets/e5be5266-64e3-4e2a-87b8-5b27899b716b)
+![Captura de pantalla 2024-12-06 092922](https://github.com/user-attachments/assets/6c87dd7e-e0c0-48e3-9bbc-fae1391b1c45)
 
 
 
