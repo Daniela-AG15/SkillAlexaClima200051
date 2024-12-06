@@ -56,14 +56,6 @@ Desarrollar una herramienta interactiva que permita a los usuarios consultar el 
 
 ![Imagen 2](https://github.com/user-attachments/assets/8901d2c9-3d10-43e3-810b-2c6e821f071d "IMG2")
 
-![Imagen 3](https://github.com/user-attachments/assets/b8fcaf5d-881b-4042-8bf5-a71dd33e2131 "IMG3")
-
-![Imagen 4](https://github.com/user-attachments/assets/5c8434cc-67e4-4110-960c-ad547c182c38 "IMG4")
-
-![Imagen 5](https://github.com/user-attachments/assets/881b2cd0-f431-47d4-8d5e-02150336c1bc "IMG5")
-
-![Imagen 6](https://github.com/user-attachments/assets/f36c4418-d3df-4138-a586-74cd9f56e29d "IMG6")
-
 ![Imagen 7](https://github.com/user-attachments/assets/b7429c92-a144-4fb1-aabd-c95ce769e0a6 "IMG7")
 
 ![Imagen 8](https://github.com/user-attachments/assets/011f1d00-1e0c-4a2d-90ec-9eaf7fab5715 "IMG8")
