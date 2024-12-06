@@ -93,14 +93,14 @@ Desarrollar una herramienta interactiva que permita a los usuarios consultar el 
 - Asegúrate de que las intenciones creadas estén reflejadas en el modelo.
 - ![Captura de pantalla 2024-12-06 092922](https://github.com/user-attachments/assets/6c87dd7e-e0c0-48e3-9bbc-fae1391b1c45)
 - ![Imagen 14](https://github.com/user-attachments/assets/4260cea4-d2d2-495e-904f-d6aab7d0150c "IMG14")
-- ![Imagen 16](https://github.com/user-attachments/assets/c2689c1a-e3a6-4e7e-99ca-fd76021d9453 "IMG16")
+
 
 ---
 
 ## 8. Configurar el Nombre de Invocación
 - Establece el **nombre de invocación** en la sección de configuración de tu skill (e.g., "Clima Fácil").
 - Este será el nombre que los usuarios dirán para activar la skill (e.g., "Alexa, abre Clima Fácil").
-
+- ![Imagen 16](https://github.com/user-attachments/assets/c2689c1a-e3a6-4e7e-99ca-fd76021d9453 "IMG16")
 - ![Imagen 17](https://github.com/user-attachments/assets/d979af43-c168-4c78-8c35-b8cb0a690fe0 "IMG17")
 
 ---
