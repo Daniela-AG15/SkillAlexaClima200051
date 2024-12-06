@@ -62,22 +62,37 @@ Desarrollar una herramienta interactiva que permita a los usuarios consultar el 
 ---
 
 
+## 2. Crear un Nuevo Proyecto de Alexa
+- En la consola de Alexa, selecciona **"Create Skill"**.
+- Configura lo siguiente:
+  - **Idioma:** Selecciona el idioma de tu skill (e.g., Español).
+  - **Tipo de Skill:** Selecciona **"Custom"** (Skill Personalizada).
+  - **Nombre de la Skill:** Asigna un nombre único (e.g., "Clima Alexa").
+ 
+  - ![Imagen 8](https://github.com/user-attachments/assets/011f1d00-1e0c-4a2d-90ec-9eaf7fab5715 "IMG8")
+  - ![Imagen 9](https://github.com/user-attachments/assets/2285500d-e6c4-4105-bc7f-74a5c81f2052 "IMG9")
+  - ![Imagen 10](https://github.com/user-attachments/assets/ab6bef1e-ad60-4280-ac80-fdc52a650d3d "IMG10")
+  - ![Imagen 11](https://github.com/user-attachments/assets/cbb260d4-c471-4be5-a9fc-466ea4116afd "IMG11")
+  - ![Imagen 12](https://github.com/user-attachments/assets/21b74ee4-ece8-49df-b797-5543d09ebc0c "IMG12")
 
-![Imagen 8](https://github.com/user-attachments/assets/011f1d00-1e0c-4a2d-90ec-9eaf7fab5715 "IMG8")
 
-![Imagen 9](https://github.com/user-attachments/assets/2285500d-e6c4-4105-bc7f-74a5c81f2052 "IMG9")
+---
 
-![Imagen 10](https://github.com/user-attachments/assets/ab6bef1e-ad60-4280-ac80-fdc52a650d3d "IMG10")
+## 3. Configurar las Intenciones de la Skill
+- En el editor de intents (intenciones), crea una nueva llamada **"Clima"**.
+- Agrega frases de activación, como:
+  - "¿Cuál es el clima hoy?"
+  - "¿Qué tiempo hace?"
+- Estas frases ayudarán a Alexa a reconocer cuándo activar esta intención.
+- 
 
-![Imagen 11](https://github.com/user-attachments/assets/cbb260d4-c471-4be5-a9fc-466ea4116afd "IMG11")
-
-![Imagen 12](https://github.com/user-attachments/assets/21b74ee4-ece8-49df-b797-5543d09ebc0c "IMG12")
+---
 
 ![Imagen 13](https://github.com/user-attachments/assets/a9c17aad-497d-42d0-970b-372a3a5866ab "IMG13")
 
 ![Imagen 14](https://github.com/user-attachments/assets/4260cea4-d2d2-495e-904f-d6aab7d0150c "IMG14")
 
-![Imagen 15](https://github.com/user-attachments/assets/85d0991b-bfbe-4f6b-afca-e726b5591747 "IMG15")
+![Captura de pantalla 2024-12-06 092922](https://github.com/user-attachments/assets/6c87dd7e-e0c0-48e3-9bbc-fae1391b1c45)
 
 ![Imagen 16](https://github.com/user-attachments/assets/c2689c1a-e3a6-4e7e-99ca-fd76021d9453 "IMG16")
 
@@ -90,7 +105,7 @@ Desarrollar una herramienta interactiva que permita a los usuarios consultar el 
 
 
 ![Resultado](https://github.com/user-attachments/assets/e5be5266-64e3-4e2a-87b8-5b27899b716b)
-![Captura de pantalla 2024-12-06 092922](https://github.com/user-attachments/assets/6c87dd7e-e0c0-48e3-9bbc-fae1391b1c45)
+
 
 
 
